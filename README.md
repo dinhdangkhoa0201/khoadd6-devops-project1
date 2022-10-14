@@ -12,6 +12,6 @@
 
 ### Link DNS LB
 
-> http://khoad-webap-1gykmwxrzanjz-1720921321.us-east-1.elb.amazonaws.com/
+> http://khoad-webap-1eu5ti8oc2vwk-167158976.us-east-1.elb.amazonaws.com/
 
 ![img.png](img.png)
